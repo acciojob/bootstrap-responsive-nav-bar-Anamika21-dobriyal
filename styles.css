@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+.navbar{
+	display: flex;
+	flex-direction: row;
+	background-color: deepskyblue;
+}
